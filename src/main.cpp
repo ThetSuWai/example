@@ -9,4 +9,6 @@ int main()
     cout<<"Subtraction is "<<result2<<endl;
     int result4=division(40,8);
     cout<<"Division is "<<result4<<endl;
+    int result3=mul(2,3);
+    cout<<"Multiplication is "<<result3<<endl;
 }
